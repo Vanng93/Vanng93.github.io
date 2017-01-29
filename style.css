@@ -12,12 +12,17 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.5;
     margin: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 p {
     color: black;
-    text-align: center;
+    text-align: left;
     background-color: white;
+    font-family: 'Overpass Mono', monospace;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,8 +32,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    padding: 2.5%;
-    font-size: 3em;
+    padding-top: 1.5%;
+    font-size: 2em;
 }
 
 h2 {
