@@ -55,10 +55,8 @@ li {
 }
 
 a {
-    color: black;
     font-size: 1em;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
 }
 
